@@ -136,12 +136,12 @@
                                     <a class="nav-item {{  request()->routeIs('about') ? 'active' : '' }}" href="{{route('about')}}">Biz haqimizda</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-item {{  request()->routeIs('director') ? 'active' : '' }}" href="#">Tuzilma</a>
+                                    <a class="nav-item {{  request()->routeIs('director') ? 'active' : '' }}" href="{{route('director')}}">Tuzilma</a>
                                     <ul class="sub-menu">
-                                        <li><a class="nav-item {{  request()->routeIs('director') ? 'active' : '' }}" href="{{route('director')}}">Direktor</a></li>
-                                        <li><a class="nav-item {{  request()->routeIs('train') ? 'active' : '' }}" href="{{route('train')}}">O'quv ishlari bo'yicha direktor o'rinbosari</a></li>
-                                        <li><a class="nav-item {{  request()->routeIs('spirit') ? 'active' : '' }}" href="{{route('spirit')}}">Ma'naviy va ma'rifiy ishlar bo'yicha direktor o'rinbosari</a></li>
-                                        <li><a class="nav-item{{  request()->routeIs('special') ? 'active' : '' }}" href="{{route('special')}}">Ixtisoslashgan fanlar bo'yicha direktor o'rinbosari</a></li>
+{{--                                        <li><a class="nav-item {{  request()->routeIs('director') ? 'active' : '' }}" href="{{route('director')}}">Direktor</a></li>--}}
+{{--                                        <li><a class="nav-item {{  request()->routeIs('train') ? 'active' : '' }}" href="{{route('train')}}">O'quv ishlari bo'yicha direktor o'rinbosari</a></li>--}}
+{{--                                        <li><a class="nav-item {{  request()->routeIs('spirit') ? 'active' : '' }}" href="{{route('spirit')}}">Ma'naviy va ma'rifiy ishlar bo'yicha direktor o'rinbosari</a></li>--}}
+{{--                                        <li><a class="nav-item{{  request()->routeIs('special') ? 'active' : '' }}" href="{{route('special')}}">Ixtisoslashgan fanlar bo'yicha direktor o'rinbosari</a></li>--}}
                                     </ul>
                                 </li>
                                 <li class="nav-item">
