@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="page-banner-cont">
-                        <h2>IIVning Xorazm akademik litseyi rahbariyati</h2>
+                        <h2>Toshkent tibbiyot akademiyasi Urganch filiali akademik litseyi rahbariyati</h2>
 
                     </div> <!-- page banner cont -->
                 </div>
@@ -126,7 +126,7 @@
                         <td>Xarbiy chaqiriqqa tayyorgarlik raxbari</td>
     {{--                    <td>27.03.2008 y</td>--}}
     {{--                    <td>31.12.2022 y</td>--}}
-                        <td><img src="{{asset('fasset/images/img_7.png')}}" width=50px alt="Foto"></td>
+                        <td><img src="{{asset('fasset/images/img_7.png')}}" width=50px   alt="Foto"></td>
                     </tr>
                 </tbody>
             </table>

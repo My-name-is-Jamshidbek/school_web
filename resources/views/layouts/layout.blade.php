@@ -76,8 +76,8 @@
             <div class="row">
                 <div class="header-contact  text-center">
                     <ul>
-                        <li><img src="{{asset('fasset/images/all-icon/map.png')}}" alt="icon"><span>O'zbekiston Respublikasi, Xorazm viloyati, Shovot tumani, K. Otaniyozov ko'chasi, 65-uy</span></li>
-                        <li><img src="{{asset('fasset/images/all-icon/email.png')}}" alt="icon"><span>al.xorazmiy2021@gmail.com</span></li>
+                        <li><img src="{{asset('fasset/images/all-icon/map.png')}}" alt="icon"><span>O'zbekiston Respublikasi, Xorazm viloyati, Urganch shahri, G`.G`ulom ko'chasi, 2-uy</span></li>
+                        <li><img src="{{asset('fasset/images/all-icon/email.png')}}" alt="icon"><span>ttaufalitsey_22@mail.ru</span></li>
                     </ul>
                 </div>
 
@@ -92,7 +92,8 @@
                     <div class="logo">
                         <a href="{{route('index')}}">
                             <img src="{{asset('logo.jpg')}}" align="left" hspace = "5px" width="100px" alt="Logo">
-                            Xorazm viloyat Shovot tumani Al-Xorazmiy nomidagi xalqaro fizika va matematika maktab-internati
+                            TOSHKENT TIBBIYOT AKADEMIYASI URGANCH FILIALI
+                            AKADEMIKLITSEYI
                         </a>
                     </div>
                 </div>
@@ -104,7 +105,7 @@
                             </div>
                             <div class="cont">
                                 <p>Hoziroq biz bilan bog'laning</p>
-                                <span>+998-(93)-453-28-27</span>
+                                <span>(362)-223-06-53<br>(99)-968-08-86</span>
                             </div>
                         </div>
                         {{--<div class="button float-left">

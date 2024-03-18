@@ -32,13 +32,13 @@ class AllTableSeeder extends Seeder
             ],
         ];
 
-        foreach ($teachers as $teacher) {
-            DB::table('posts')->insert([
-                'header' => $teacher['header'],
-                'description' => $teacher['description'],
-                'img' => $teacher['img'],
-                'created_at' => now()
-            ]);
-        }
+//        foreach ($teachers as $teacher) {
+//            DB::table('posts')->insert([
+//                'header' => $teacher['header'],
+//                'description' => $teacher['description'],
+//                'img' => $teacher['img'],
+//                'created_at' => now()
+//            ]);
+//        }
     }
 }

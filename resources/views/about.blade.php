@@ -28,54 +28,32 @@
                     <h2>MUASSASA HAQIDA</h2>
                 </div> <!-- section title -->
                 <div class="about-cont">
-                <p align="justify">Xorazm viloyati Shovot tumanidagi ayrim fanlar chuqur o‘rganiladigan 1-son ixtisoslashtirilgan davlat umumta’lim maktab-internati o‘zining katta tarixi va salmoqli natijalari bilan mashhur.
-                    Shunday  yirik va sharafli yutuqlarga ega maktabni Prezidentimiz 2019-yilda Xorazmga tashriflari paytida alohida tilga olib, e’tirof etib o‘tdilar va maktab negizida zamonaviy ta’lim maskani qad rostlashini aytgan edilar.
-                    Shu munosabat bilan, 2020-yil 19-mart kuni ushbu maktab negizida
-                    Al-Xorazmiy nomidagi Xalqaro fizika-matematika maktab-internatini tashkil etish to‘g‘risida Vazirlar Mahkamasining qarori qabul qilindi.
-                    Ushbu qaror bilan ayrim fanlar chuqur o‘rganiladigan 1-son ixtisoslashtirilgan davlat umumta’lim maktab-internati negizida Al-Xorazmiy nomidagi Xalqaro fizika va matematika maktab-internati (keyingi o‘rinlarda - maktab) tashkil etildi.
-                    Qayd etib o‘tilgan hukumat qarorida maktabni zamonaviy ta’lim dargohiga aylantirish, unda tahsil oladigan o‘quvchilarni mustaqil fikrli, tashabbuskor, kreativ va xalqaro maydonda o‘zini dadil namoyon eta oladigan ilmli yoshlar sifatida tarbiyalash maqsadi qo‘yildi. Buning uchun yetarli shart-sharoit yaratilishi, xususan, maktabga mahalliy va xorijiy yetuk o‘qituvchilarni jalb qilish va moddiy-texnik bazasini mustahkamlash bo‘yicha tegishli tashkilotlarga vazifalar belgilandi.
+                <p align="justify">TTA Urganch filiali akademik liseyi Oʻzbekiston Respublikasi Vazirlar Mahkamasining 2010-yil 1-iyuldagi 131-sonli qarori hamda Oʻzbekiston Respublikasi Sogʻliqni Saqlash vazirining 2010-yil 2-iyuldagi 202-sonli buyrugʻiga asosan, Hazorasp tibbiyot kolleji negizida tashkil qilingan.
+                    <br>
+                    Oʻzbekiston Respublikasi Prezidentining „Oliy taʼlim muassasalariga kirish uchun nomzodlarni maqsadli tayyorlash tizimini yanada takomillashtirish toʻgʻrisida“gi 2017-yil 26-sentabrdagi PQ-3290-son qarori, Oʻzbekiston Respublikasi Vazirlar Mahkamasining 2018-yil 18-aprel № 303-F sonli farmoyishi, Oʻzbekiston Respublikasi Oliy va oʻrta maxsus taʼlim vazirining 2018-yil 21-aprel' № 362 va Sogʻliqni saqlash vazirining 2018-yil 2-maydagi № 287-sonli buyrugʻiga asosan, Hazorasp tumanida joylashgan TTA Urganch filiali akademik liseyi 2018-2019 oʻquv yilidan (1-bosqichga oʻquvchilarni qabul qilish va ularning oʻquv jarayoni) Urganch shahar Gʻ.Gʻulom koʻchasi 2-uy manzilda joylashgan Urganch neftʼ va gaz sanoat kasb-hunar kollejida faoliyatini davom qildirmoqda.
                 </p>
                 </div>
                 <div class="section-title mt-50">
 
-                    <h2>MAKTABNING ASOSIY MAQSAD VA VAZIFALARI</h2>
+                    <h2>MUASSASA O`QUVCHILARI</h2>
                 </div> <!-- section title -->
                 <div class="about-cont">
-                    <p align="justify">Maktabning asosiy maqsadi – xalqaro maydonda mamlakatimizning nufuzini yanada yuksaltirish uchun iqtidorli yoshlarni aniqlash va yuqori malakali kadrlar tayyorlashning uzluksiz tizimini yaratishdan iborat.
-                        Maktabning asosiy vazifalari – Vazirlar Mahkamasining”Al-Xorazmiy nomidagi  Xalqaro fizika va matematika maktab-internatini tashkil etish to‘g‘risida“gi qarori bilan belgilab berilgan bo‘lib, bular quyidagilar:
-                        o	umumiy o‘rta ta’limning davlat ta’lim standartlari asosida zamonaviy axborot texnologiyalaridan keng foydalangan holda aniq va tabiiy fanlar, shuningdek, chet tillari chuqur o‘qitilishini tashkil etish;
-                        o	o‘quvchilarning ijodiy salohiyatini namoyon qilish va faollashtirish;
-                        o	har bir o‘quvchining individual xususiyatlarini hisobga olgan holda mustaqil tadqiqotchilik faoliyati ko‘nikmalarini shakllantirish va rivojlantirish;
-                        o	mahalliy va xorijiy mamlakatlardan yuqori kasb mahoratiga ega bo‘lgan tajribali o‘qituvchilarni jalb qilish;
-                        o	iqtidor va iste’dodni aniqlash hamda kamol toptirish bo‘yicha o‘quvchilarni Respublika va xalqaro fan olimpiadalari, tanlovlar va boshqa tadbirlarda qatnashishga tayyorlash.
-                        Bugungi kunda maktabda jami 105 nafar xodim faoliyat ko‘rsatib kelishadi, ularning  34 nafari malakali pedagog o‘qituvchilar tarkibi tashkil qiladi. Ularning 26 nafari oliy  toifali, 8 nafari birinchi toifali xodimlardir.
-                        Maktabda 1 nafar  “Xalq o‘qituvchisi” unvoniga ega bo‘lgan o‘qituvchi faoliyat ko‘rsatmoqda. 6 nafar o‘qituvchilar esa, Davlat mukofotlari bilan taqdirlanishgan.
-                        10 nafar o‘qituvchilar “Xalq ta’limi a’lochisi” ko‘krak nishoni bilan taqdirlanishgan.
-                        Maktabda fizika, matematika va chet tili fanlarini chuqurlashtirib o‘qitish bilan birga, ona tili va adabiyot, rus tili va adabiyoti, geografiya, tarix, informatika va axborot texnologiyalari, kimyo , biologiya, tarbiya, jismoniy tarbiya, musiqa, tasviriy san’at, ma’naviyat, texnologiya, iqtisodiy bilim asoslari, davlat va huquq asoslari, chizmachilik, dunyo dinlari tarixi, CHQBT, astronomiya, tadbirkorlik asoslari kabi fanlar ham malakali o‘qituvchilar tomonidan ta’lim beriladi.
-                        Maktabga o‘qishga qabul qilingan o‘quvchilarga akademik murabbiy (kurator) biriktiriladi hamda muntazam ravishda o‘quvchining rivojlanishi va fanlarni o‘zlashtirishini nazorat qilib boradi. Kurator o‘quvchilar haqidagi barcha zarur ma’lumotlarga ega bo‘ladi va uning ota-onasi va o‘qituvchilari bilan doimiy aloqada bo‘ladi.
-                        Maktabni ko‘rkam va sifatli ta’lim dargohiga aylantirishda barcha pedagog-o‘qituvchilar, tarbiyachilarning, homiy tashkilotlar, ota-onalarning xizmati beqiyos o‘rin tutadi.
-                    </p>
-                </div>
+                    <p align="justify">2020-2021 o'quv yilida Akademik litseyni 148 nafar o'quvchi bitirgan bo'lib, 109 nafari oliy ta'lim muassasalariga o'qishga kirgan. Akademik litseyning oliy ta'lim muassasalariga o'qishga kirish ko'rsatkichi 73,6 % ni tashkil etmoqda.
+                        <br>
+                        2021 - 2022 o'quv yilida Akademik litseyni 137  nafar o'quvchi bitirgan bo'lib, 112 nafari oliy ta'lim muassasalariga o'qishga kirgan. Akademik litseyning oliy ta'lim muassasalariga o'qishga kirish ko'rsatkichi 81,8 % ni tashkil etmoqda.
+                        <br>
+                        2022 - 2023 o'quv yilida Akademik litseyni 140  nafar o'quvchi bitirgan bo'lib, 115 nafari oliy ta'lim muassasalariga o'qishga kirgan. Akademik litseyning oliy ta'lim muassasalariga o'qishga kirish ko'rsatkichi 82 % ni tashkil etmoqda.
+                        <br>
+                        -2023-2024 o'quv yilida 1 bosqich va 2 bosqichda jami 287 o'quvchi tahsil olmoqda.                    </p>
+                        <br>
+                        TTA Urganch filialining mavjud jami 25 ta kafedrasi hamda akademik liseyning 2 ta fan kafedrasi oʻrtasida 2019-2020 oʻquv yili uchun hamkorlik shartnomalari tuzilgan. TTA Urganch filiali professor-oʻquvchilari akademik liseyda oʻquv-metodik faoliyatni rivojlantirish, talaba yoshlarni zamonaviy intellektual bilim salohiyatlarini oshirish borasida hamkorlikda mahorat darsini oʻtkazilib kelinmoqda.                </div>
                 <div class="section-title mt-50">
 
-                    <h2>MUASSASA  TARIXI</h2>
+                    <h2>Akademik litseyi mehnati va faoliyati bilan na’muna bo‘luvchi xodimlar haqida</h2>
                 </div> <!-- section title -->
                 <div class="about-cont">
-                    <p align="justify">Maktab 1976-yil 12-oktyabrda 624 o‘rinli binoda tashkil qilinib, unga
-                        yaxshi niyatlar bilan jahonda matematika ilmiga asos solgan eldoshimiz
-                        Al-Xorazmiy nomi berildi.
-                        Maktabning birinchi direktori Xudoyberganov Abdusharif, o‘quv ishlari bo‘yicha direktor o‘rinbosari Saparboyev Sultonboy va tarbiyaviy ishlar bo‘yicha direktor o‘rinbosari Jumaboyev Yo‘ldoshlar hisoblanishadi.
-                        Maktab tashkil qilingan yili 570 nafar o‘quvchi va 57 nafar pedagog xodimlar bilan ish boshlagan.
-                        1977-yil 1-sentabrdan boshlab maktabda matematika fani o‘qituvchisi
-                        R. Allaberganov rahbarligida matematika fani chuqur o‘rgatiladigan sinf ochilib, unga                     26 nafar o‘quvchi olingan. Ularning 7 nafari oltin medal va 11 nafari
-                        “Faxriy yorliq” bilan taqdirlangan.
-                        1983-yili bobomiz Al-Xorazmiyning 1250 yilligi nishonlanishi munosabati bilan O‘zbekiston Fanlar akademiyasining akademiklari S. Sirojiddinov, M.Salohiddinov,                         V. Kabulov, T. Azlarov, M. Mirzaaxmedov, A.Sa’dullayev, Sh. Farmonov,  A. A’zamov va M. Gafurovlar maktabda mehmon bo‘lganlar.
-                        Al-Xorazmiy  nomli maktab tashkil qilingandan buyon bu dargohdan ajoyib pedagoglar yetishib chiqqan. Jumladan, maktabning faxriylaridan bo‘lgan
-                        va uzoq yillar mobaynida maktabning rahbari sifatida faoliyat olib borgan “Xalq ta’limi a’lochisi” Ro‘zimboy Allaberganov 1985-yilda viloyatda  birinchilardan bo‘lib,                               38 yoshida "O‘zbekistonda xizmat ko‘rsatgan yoshlar murabbiysi" faxriy unvoniga sazovor bo‘lgan. Ro‘zimboy Allaberganovning maktabni rivojlantirish borasidagi ishi 1990-yilda Respublika   miqyosida ommalashtirildi.
-                        Shu bilan birga bunday jonkuyar malakali, sadoqatli pedagoglar Abdusharif Xudayberganov, Qo‘ziboy Atabayev, Dilorom Xasanova, Sultonboy Saparboyev, Iskandar Qilichev, Spartak Vohidovlarning ham maktabning rivojlanish tarixidagi o‘rni beqiyosdir.
-                        Tashkil etilganiga 45 yil to‘lgan ushbu maktabdan o‘tgan yillarda ko‘plab olimlar, xususan, 36 nafar fan doktori, 68 nafar fan nomzodi etishib chiqqan. Bundan tashqari ko‘plab rahbar xodimlar, tadbirkorlar va yetakchilarga bilim asoslarini singdirgan ta’lim maskani sifatida katta obro‘ga ega. Turli yillarda Ukrainada (1984), Rossiyada (1986, 1993), Qirg‘izistonda (1987), Qozog‘istonda (1988) o‘tgan fizika-matematikadan xalqaro olimpiadalarda 80 dan ortiq o‘quvchi qatnashib, g‘oliblikni qo‘lga kiritgan.
-                        Maktab 1976-yilda  42-Al-Xorazmiy  nomli  o‘rta ta’lim maktabi nomi bilan, 1985-yildan  Al-Xorazmiy  nomli  120-son  “Yosh  matematiklar  va fiziklar maktab-internati” nomi bilan faoliyat olib borgan bo‘lsa, 1993-yilda muassasaga  1-son viloyat  litseyi  maqomi,2005-yilda 1-ixtisoslashtirilgan  umumiy  o‘rta  ta’lim  maktab-internati maqomi berilgan. 2009-yildan ayrim  fanlar  chuqur  o‘rganiladigan  1-ixtisoslashtirilgan  davlat  umumta’lim  maktab-internati  sifatida  faoliyat yuritgan.  2021-yilda  Al-Xorazmiy  nomidagi  Xalqaro  fizika  va  matematika    maktab-internati  sifatida  qayta  tashkil  etildi.
-                    </p>
+                    <p align="justify">Sharipova fazilat Ollaberganovna 24.09.1983 yil. Xorazm viloyati Yangirariq tumanida tug'ilgan. Toifasi bosh ukituvchi. 2023-yil O'zbekiston Respublikasi Oliy ta’lim fan va innovatsiyalar vazirining 2023-yil 25-sentabrdagi 433-sonli buyrugiga asosan O'rta maxsus va professional ta’lim a’lochisi" ko'krak nishoni bilan mukofotlandi.
+                        Sherjanova Guli Raimbaevna 16.08.1977-yil Xorazm viloyati, Yangibozor tumanida tug'ilgan. Toifasi bosh o'qituvchi. Akademik litseylar o'rtasida o'tkaziladigan fan olimpiadalarida o'zining o'qitayotgan guruxlaridagi o'quvchilari kimyo fani bo'yicha eng yaxshi ko'rsatkichlarni ko'rsatib kelmoqda.                    </p>
                 </div>
             </div> <!-- about cont -->
 

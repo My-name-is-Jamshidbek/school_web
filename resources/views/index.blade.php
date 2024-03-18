@@ -32,9 +32,9 @@
                     <div class="col-xl-7 col-lg-9">
                         <div class="slider-cont">
                             <h1 data-animation="bounceInLeft" data-delay="1s">Biz bilan yuksak cho'qqilarni zabt et</h1>
-                            <ul>
-                                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#">Batafsil</a></li>
-                            </ul>
+{{--                            <ul>--}}
+{{--                                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#">Batafsil</a></li>--}}
+{{--                            </ul>--}}
                         </div>
                     </div>
                 </div> <!-- row -->
@@ -167,48 +167,65 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
-                    <div class="section-title mt-50">
-                        <h5>Biz haqimizda</h5>
-                        <h2>Maktab ramzlari</h2>
-                    </div> <!-- section title -->
-                    <div class="about-cont">
-                        <p>Maktab fizika va matematika sohasida kadrlar tayyorlash bo‘yicha milliy
-                            va xalqaro maydonda imidjini oshirish maqsadida o‘zining ramzlari, shu jumladan madhiyasi, bayrog‘i va emblemasiga ega.
-                        </p><br>
-                        <h2>Maktab madhiyasi</h2>
-                        <p>Kuch olamiz maktab ilmidan<br>
-                            Vatan, bizning shahdimizga boq...<br>
-                            Fizik qonun, hisob bilmidan <br>
-                            Olayapmiz mukammal saboq... <br><br>
-
-                            Kel, tengdoshim, safimizda tur <br>
-                            Zamon ko‘rsin ilm-fan kuchin. <br>
-                            Egallaymiz dunyo sirlarin <br>
-                            Ona yurtning ertasi uchun... <br><br>
-
-                            Bobom qo‘li yetgandi ko‘kka - <br>
-                            Bugun dunyo qilgaydir ta’zim. <br>
-                            Fizika ham matematika, <br>
-                            Al-Jabrning yurti - Xorazm! <br>
-                        </p>
-                    </div>
-                </div> <!-- about cont -->
+                        <div class="section-title mt-50">
+                            {{--                        <h5>Biz haqimizda</h5>--}}
+                            <h2>O`zbekiston respublikasi madhiyasi</h2>
+                        </div> <!-- section title -->
+                        <div class="about-cont ">
+                            <p class="">
+                                Serquyosh, hur o‘lkam, elga baxt, najot,
+                                <br>
+                                Sen o‘zing do‘stlarga yo‘ldosh, mehribon!
+                                <br>
+                                Yashnagay to abad ilmu fan, ijod,
+                                <br>
+                                Shuhrating porlasin toki bor jahon!
+                                <br>
+                                <br>
+                                Oltin bu vodiylar — jon O‘zbekiston,
+                                <br>
+                                Ajdodlar mardona ruhi senga yor!
+                                <br>
+                                Ulug‘ xalq qudrati jo‘sh urgan zamon,
+                                <br>
+                                Olamni mahliyo aylagan diyor!
+                                <br>
+                                <br>
+                                Bag‘ri keng o‘zbekning o‘chmas iymoni,
+                                <br>
+                                Erkin, yosh avlodlar senga zo‘r qanot!
+                                <br>
+                                Istiqlol mash'ali, tinchlik posboni,
+                                <br>
+                                Haqsevar, ona yurt, mangu bo‘l obod!
+                                <br>
+                                <br>
+                                Oltin bu vodiylar — jon O‘zbekiston,
+                                <br>
+                                Ajdodlar mardona ruhi senga yor!
+                                <br>
+                                Ulug‘ xalq qudrati jo‘sh urgan zamon,
+                                <br>
+                                Olamni mahliyo aylagan diyor!
+                            </p>
+                        </div>
+                    </div> <!-- about cont -->
                 <div class="col-lg-6 offset-lg-1">
                     <div class="about-event mt-50">
                         <div class="event-title">
                             <h3>Maktab emblemasi</h3>
                         </div> <!-- event title -->
-                        <img src="{{asset('fasset/images/emblem.png')}}" alt="Emblema"><br>
-                        <div class="event-title">
-                            <h3>Maktab bayrog'i</h3>
-                        </div> <!-- event title -->
-                        <img src="{{asset('fasset/images/flag.png')}}" alt="Bayroq">
+                        <img src="{{asset('fasset/images/emblem.jpg')}}" alt="Emblema"><br>
+{{--                        <div class="event-title">--}}
+{{--                            <h3>Maktab bayrog'i</h3>--}}
+{{--                        </div> <!-- event title -->--}}
+{{--                        <img src="{{asset('fasset/images/flag.png')}}" alt="Bayroq">--}}
                     </div> <!-- about event -->
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
         <div class="about-bg">
-            <img src="{{asset('fasset/images/about/bg-1.png')}}" alt="About">
+{{--            <img src="{{asset('fasset/images/about/bg-1.png')}}" alt="About">--}}
         </div>
     </section>
 
@@ -452,7 +469,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 order-last order-lg-first">
                     <div class="video text-lg-left text-center pt-50">
-                        <a class="Video-popup" href="https://www.youtube.com/watch?v=otUguZ2g7YM"><i class="fa fa-play"></i></a>
+                        <a class="Video-popup" href="https://www.youtube.com/watch?v=8IUOYkK7YQM"><i class="fa fa-play"></i></a>
                     </div> <!-- row -->
                 </div>
                 <div class="col-lg-5 offset-lg-1 order-first order-lg-last">
