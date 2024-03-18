@@ -99,7 +99,7 @@
                                             <img src="{{asset('fasset/images/all-icon/ctg-2.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Matematika</span>
+                                            <span>Kimyo</span>
                                         </span>
                                     </span> <!-- singel category -->
                                 </a>
@@ -111,7 +111,7 @@
                                             <img src="{{asset('fasset/images/all-icon/ctg-3.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Fizika</span>
+                                            <span>Biologiya</span>
                                         </span>
                                     </span> <!-- singel category -->
                                 </a>
