@@ -213,7 +213,7 @@
                 <div class="col-lg-6 offset-lg-1">
                     <div class="about-event mt-50">
                         <div class="event-title">
-                            <h3>Maktab emblemasi</h3>
+                            <h3>Litsey emblemasi</h3>
                         </div> <!-- event title -->
                         <img src="{{asset('fasset/images/emblem.jpg')}}" alt="Emblema"><br>
 {{--                        <div class="event-title">--}}
